@@ -1,0 +1,20 @@
+PODS:
+  - DejalActivityView (1.2)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - TPKeyboardAvoiding (1.2.11)
+
+DEPENDENCIES:
+  - DejalActivityView (= 1.2)
+  - SDWebImage (~> 3.7)
+  - TPKeyboardAvoiding (~> 1.2.11)
+
+SPEC CHECKSUMS:
+  DejalActivityView: 94d85757728a02cbb32445fcf6dfba17dc1e7393
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  TPKeyboardAvoiding: e5ce146b313de063957bfa75a13f1e9b0ff18ab7
+
+PODFILE CHECKSUM: dcf46ace8414f31ee059307bb16ad9c1d9e7e9fe
+
+COCOAPODS: 1.0.0.beta.8
